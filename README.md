@@ -1,2 +1,1 @@
-# Barbearia-
-Barbearia alura
+Barbearia Alura
